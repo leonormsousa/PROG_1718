@@ -1,5 +1,5 @@
 # PROG_1718
-Project developed during the course Programming in FEUP
+Project developed during the course Programming in FEUP in collaboration with Sílvia Rocha (@silviavrocha)
 
 
 Part 1
