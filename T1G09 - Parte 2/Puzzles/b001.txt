@@ -1,0 +1,23 @@
+C:\Users\leono\source\repos\Projeto2\Projeto2\dicionario_sinonimos.txt
+
+##CABAL#
+ADO#A###
+B###I##M
+ADD#TIDE
+N#I##N#N
+DEEP#S#D
+O#######
+N#ABACK#
+
+AcH CABAL
+AcV CO
+AeV BAIT
+BaH ADO
+BaV ABANDON
+ChV MEND
+DaH ADD
+DcV DIE
+DeH TIDE
+DfV INS
+FaH DEEP
+HcH ABACK

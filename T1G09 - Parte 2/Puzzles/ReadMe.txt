@@ -1,0 +1,10 @@
+We've had to work very hard for the development of this project and we believe that we've acomplished a nice result. However, we are still able to find some flaws in our work that were caused not by lack of work or motivation but by us not knowing how to solve them or even not knowing if they were really errors.
+We have tried, trough the whole project, to give our own touch to the program and that is shown on some decisions we've made:
+cwCreator:
+-to not allow the user to reuse a non valid board, when choosing to finish it (instead of resume it later). We were lead to do this because when a board contains non valid words, these aren't listed and the process of removing doesn't work correctly.
+-to allow the user to, in the case where the adding of a valid word creates the adding of a non valid word, to still add that non valid word, although warning the user that that may cause some errors on the program. We've chosen to do such thing because the user may use that non valid word to create a valid word (example: the word DO is not a valid word according to the given dictionary, but the word ADO is).
+cwPlayer:
+-to create functions to add a cell, to remove a cell and to clear the board. These functions were created to allow the user to "correct" some errors that may occur when you remove non valid words from the board. The first two functions may also affect the way that "remove a word" works, so we have chosen to warn the user for this fact and to create the third function to help correct this errors.
+-to save the player's file with a name identical to the name of the board the player is solving. We thought this was the option that made more sense in oposition to just incrementing the player's file name.
+-to add the time and date of when the user selects the board to the player's file aswell as a little header, just to make the file more legible and discernible.
+-to give the hints randomly to the user. This was an option that causes the problem of being possible for the user to always obtain the same hints, but was still the option that made more sense to us.
