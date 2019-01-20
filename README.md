@@ -1,5 +1,5 @@
 # PROG_1718
-Project developed during the course Programming in FEUP in collaboration with Sílvia Rocha (@silviavrocha)
+Project developed during the course Programming in FEUP in collaboration with Sílvia Rocha (@silviavrocha).
 
 
 Part 1
@@ -15,6 +15,6 @@ Grade: Not evaluated.
 Part 2
 
 Description:
-The objective of this practical work is to develop two programs, one to create a crosswords puzzle and save it, in a text file, the other to load a puzzle and let the user solve it. Both programs need a synonyms dictionary file that is provided. All the following specifications should be read before starting the development.
+  The objective of this practical work is to develop two programs, one to create a crosswords puzzle and save it, in a text file, the other to load a puzzle and let the user solve it. Both programs need a synonyms dictionary file that is provided. All the following specifications should be read before starting the development.
 
 Grade: 18.9
